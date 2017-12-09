@@ -1,0 +1,42 @@
+d:\Projekty\aisde\aisde\bin\Debug\aisde.exe.config
+d:\Projekty\aisde\aisde\bin\Debug\aisde.exe
+d:\Projekty\aisde\aisde\bin\Debug\aisde.pdb
+d:\Projekty\aisde\aisde\obj\Debug\aisde.csprojResolveAssemblyReference.cache
+d:\Projekty\aisde\aisde\obj\Debug\aisde.Form1.resources
+d:\Projekty\aisde\aisde\obj\Debug\aisde.Properties.Resources.resources
+d:\Projekty\aisde\aisde\obj\Debug\aisde.csproj.GenerateResource.Cache
+d:\Projekty\aisde\aisde\obj\Debug\aisde.exe
+d:\Projekty\aisde\aisde\obj\Debug\aisde.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\bin\Debug\aisde.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\obj\Debug\aisde.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\obj\Debug\aisde.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\bin\Debug\aisde.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\bin\Debug\aisde.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\obj\Debug\aisde.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\obj\Debug\aisde.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\obj\Debug\aisde.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\aisde\obj\Debug\aisde.csproj.GenerateResource.Cache
+D:\aisde\aisde\aisde\bin\Debug\aisde.exe.config
+D:\aisde\aisde\aisde\obj\Debug\aisde.exe
+D:\aisde\aisde\aisde\obj\Debug\aisde.pdb
+D:\aisde\aisde\aisde\obj\Debug\aisde.csprojResolveAssemblyReference.cache
+D:\aisde\aisde\aisde\obj\Debug\aisde.Form1.resources
+D:\aisde\aisde\aisde\obj\Debug\aisde.Properties.Resources.resources
+D:\aisde\aisde\aisde\obj\Debug\aisde.csproj.GenerateResource.Cache
+D:\aisde\aisde\aisde\bin\Debug\aisde.exe
+D:\aisde\aisde\aisde\bin\Debug\aisde.pdb
+D:\aisde\aisde\aisde\bin\Debug\Priority Queue.dll
+D:\aisde\aisde\aisde\bin\Debug\Priority Queue.pdb
+D:\aisde\aisde\aisde\bin\Debug\Priority Queue.xml
+d:\Projekty\aisde\bin\Debug\aisde.exe.config
+d:\Projekty\aisde\obj\Debug\aisde.exe
+d:\Projekty\aisde\obj\Debug\aisde.pdb
+d:\Projekty\aisde\bin\Debug\aisde.exe
+d:\Projekty\aisde\bin\Debug\aisde.pdb
+d:\Projekty\aisde\bin\Debug\Priority Queue.dll
+d:\Projekty\aisde\bin\Debug\Priority Queue.pdb
+d:\Projekty\aisde\bin\Debug\Priority Queue.xml
+d:\Projekty\aisde\obj\Debug\aisde.csprojResolveAssemblyReference.cache
+d:\Projekty\aisde\obj\Debug\aisde.Form1.resources
+d:\Projekty\aisde\obj\Debug\aisde.Properties.Resources.resources
+d:\Projekty\aisde\obj\Debug\aisde.csproj.GenerateResource.Cache
